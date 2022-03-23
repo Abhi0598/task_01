@@ -1,0 +1,507 @@
+.topleft{
+    /* display: flex; */
+    background-color: #0089ED;
+    height:60vh;
+    width: 100%;
+}
+
+.logo{
+position: absolute;
+width: 100px;
+height: 30px;
+left: 42px;
+top: 31px;
+}
+.logo > h1{
+    margin: 0;
+    font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+.signin{
+position: absolute;
+width: 157px;
+height: 51px;
+left: 73px;
+top: 150px;
+}
+.signin > h1{
+    margin: 0;
+    color: white;
+    font-family: Poppins;
+font-size: 34px;
+font-style: normal;
+font-weight: 600;
+line-height: 51px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.lorem{
+    position: absolute;
+    height: 36px;
+    width: 396px;
+    left: 73px;
+    top: 201px;
+    border-radius: nullpx;
+    
+}
+.lorem > span{
+    float: left;
+    color: white;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+}
+.lorem1{
+position: absolute;
+width: 311px;
+height: 115px;
+left: 75px;
+top: 259px;
+}
+.lorem1 > span{
+    float: left;
+    color: white;
+font-family: Poppins;
+font-size: 13px;
+font-style: normal;
+font-weight: 300;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.topimage{
+    position: absolute;
+    height: 115px;
+    width: 311px;
+    left: 349px;
+    top: 25px;
+    border-radius: nullpx;
+}
+
+
+.loginas{
+    position: absolute;
+    height: 24px;
+    width: 66px;
+    left: 73px;
+    top: 512px;
+    border-radius: nullpx;
+    }
+.loginas > span{
+        font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: black;
+}
+.profile-box1{
+position: absolute;
+height: 164px;
+width: 145px;
+left: 73px;
+top: 562px;
+border-radius: 9px;
+background: #EFF8FF;
+}
+.profile-image1{
+position: absolute;
+height: 76px;
+width: 76px;
+left: 32px;
+top: 24px;
+border-radius: 0px;
+}
+.cancel1{
+    position: absolute;
+    height: 13px;
+width: 13px;
+left: 122px;
+top: 11px;
+border-radius: 0px;
+color: #737373;
+}
+
+.name1{
+    position: absolute;
+    height: 23px;
+    width: 81px;
+    left: 32px;
+    top: 107px;
+    border-radius: nullpx;
+}
+.name1 > span{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+color: black;
+}
+.activity1{
+    position: absolute;
+    height: 20px;
+    bottom: 14px;
+    right: 0;
+    left: 0;
+}
+.activity1 > span{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 20px;
+color: #ADADAD;
+}
+
+.profile-box2{
+    position: absolute;
+    position: absolute;
+    height: 164px;
+    width: 145px;
+    left: 249px;
+    top: 562px;
+    border-radius: 9px;
+    background: #EFF8FF;
+}
+.cancel2{
+    position: absolute;
+    height: 13px;
+width: 13px;
+left: 119px;
+top: 11px;
+border-radius: 0px;
+color: #737373;
+}
+.profile-image2{
+    position: absolute;
+    height: 76px;
+    width: 76px;
+    left: 32px;
+    top: 24px;
+    border-radius: 0px;
+    }
+
+    .name2{
+        position: absolute;
+        height: 23px;
+        left: 0px;
+        right: 0px;
+        top: 107px;
+        border-radius: nullpx;
+    }
+    .name2 > span{
+        font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    color: black;
+    }
+    .activity2{
+        position: absolute;
+    height: 20px;
+    bottom: 14px;
+    right: 0;
+    left: 0;
+    }
+    .activity2 > span{
+        font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 20px;
+    color: #ADADAD;
+    }
+    
+.loginprofile{
+     display: flex;
+}
+
+
+/* SIGN UP */
+.signupbox{
+    background-color: white;
+    height: 741px;
+width: 539px;
+right: 100px;
+top: 79px;
+border-radius: 40px;
+position: absolute;
+box-shadow: 0px 4px 35px 0px #00000014;
+
+}
+.welcome{
+    width: 50%;
+    position: absolute;
+width: 201px;
+height: 32px;
+left: 44px;
+top: 44px;
+}
+.welcome > span{
+font-family: Poppins;
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 32px;
+color: black;
+/* margin: 20px; */
+
+}
+.LOREM{
+    color: #0089ED;
+    margin: 0;
+}
+.noaccount{
+    width: 50%;
+    position: absolute;
+    width: 85px;
+    height: 40px;
+    left: 410px;
+    top: 50px;
+    /* margin: 25px;
+    padding-left: 3rem; */
+}
+.no-account{
+    width: 85px;
+    height: 40px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+color: #8D8D8D;
+text-align: left;
+float: left;
+}
+.signup-link{
+    text-align: left;
+float: left;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #0089ED;
+}
+.signup-signin{
+position: absolute;
+width: 182px;
+height: 83px;
+top: 77px;
+left: 44px;
+}
+.signup-signin > h1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 55px;
+line-height: 82px;
+margin: 0;
+color: black;
+}
+.social{
+    display: flex;
+}
+.google{
+    position: absolute;
+width: 298px;
+height: 55px;
+top: 203px;
+    left: 44px;
+background: #E9F1FF;
+border-radius: 9px;
+}
+.google-image > img{
+    position: absolute;
+    top: 13px;
+    left: 32px;
+}
+.google-text{
+    position: absolute;
+    left: 79px;
+    top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+ color: #4285F4;
+}
+.fb{
+    position: absolute;
+    width: 60px;
+    height: 55px;
+    left: 362px;
+    /* right: 38px; */
+    top: 203px;
+    background: #F7F7F7;
+    border-radius: 9px;
+}
+.fb-image{
+    position: absolute;
+width: 29px;
+height: 29px;
+top: 12px;
+left: 15px;
+}
+.apple{
+    position: absolute;
+width: 60px;
+height: 55px;
+left: 435px;
+top: 203px;
+background: #F6F6F6;
+border-radius: 9px;
+}
+.apple-image{
+    position: absolute;
+left: 15px;
+top: 13px;
+}
+.username {
+    position: absolute;
+    left: 44px;
+    top: 308px;
+}
+.username > label{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+.input-username {
+    background: #FFFFFF;
+border: 1px solid #4285F4;
+box-sizing: border-box;
+border-radius: 9px;
+height: 57px;
+width: 451px;
+position: absolute;
+left: 0px;
+top: 35px;
+border-radius: 9px;
+padding: 0 18px;
+font-size: medium;
+font-family: poppins;
+}
+.input-username::placeholder{
+    position: absolute;
+    height: 19px;
+width: 302px;
+left: 25px;
+top: 19px;
+border-radius: nullpx;
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+
+color: #808080;
+
+}
+.password{
+    position: absolute;
+    left: 44px;
+    top: 438px;
+}
+.password > label{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+float: left;
+}
+.input-password{
+    position: absolute;
+    height: 57px;
+width: 451px;
+left: 0px;
+top: 35px;
+border-radius: 9px;
+background: #FFFFFF;
+border: 1px solid #ADADAD;
+box-sizing: border-box;
+padding: 0 18px;
+font-size: medium;
+font-family: poppins;
+}
+.input-password::placeholder{
+    position: absolute;
+    height: 19px;
+width: 302px;
+left: 25px;
+top: 19px;
+border-radius: nullpx;
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+
+color: #808080;
+
+}
+.forgotpassword{
+    position: absolute;
+    height: 20px;
+width: 108px;
+left: 387px;
+top: 544px;
+border-radius: nullpx;
+}
+.forgotpassword > a{
+text-decoration: none;
+color: #4285F4;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px
+}
+.signinbutton{
+    position: absolute;
+    top: 608px;
+    left: 44px;
+    box-shadow: 0px 4px 19px 0px #7793414D;
+}
+.signinbutton > button{
+    background-color:  #0089ED;
+    height: 54px;
+width: 451px;
+left: 827px;
+top: 687px;
+border-radius: 10px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: white;
+
+}
+.signinbutton > button:hover{
+cursor: pointer;
+}
+.bottom{
+    height: 40vh;
+}

@@ -1,0 +1,206 @@
+.dashboardWrapper{
+    width: 80%;
+    overflow: auto;
+    height: 100%;
+    margin-left: 20%;
+}
+
+
+.dashboardinside{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 33px 0px 0px 30px;
+    height: 44px;
+}
+ .ticketHeading{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.3px;
+    color: #252733;
+ } 
+
+ .navoptions{
+    width: 327px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+
+ .dashboardTableWrapper{
+     margin: 54px 33px 0px 30px;
+     background: #FFFFFF;
+    border: 1px solid #DFE0EB;
+    box-sizing: border-box;
+    border-radius: 8px;
+ }
+
+ .tablefilterOptionHeader{
+    padding: 32px 32px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ .allticketheading{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+ }
+
+
+.flexonly{
+     display: flex;
+ }
+
+.sortpadding{
+     padding-right: 17px;
+     font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    color: #4B506D;
+ }
+
+ .filterpadding{
+     padding-left: 17px;
+     font-family: 'Mulish';
+     font-style: normal;
+     font-weight: 600;
+     font-size: 14px;
+     letter-spacing: 0.2px;
+     color: #4B506D;
+ }
+
+ .tableHeader{
+    padding: 48px 32px 12px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    color: #9FA2B4;
+ }
+
+ .rowtext{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    padding: 24px 32px;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #252733;
+    border-top: 1.5px solid #DFE0EB;
+    align-items: center;
+ }
+
+.ticketdetail {
+   width: 440px;
+   display: flex;
+   align-items: center;
+ }
+
+ .customername{
+  width:208px;
+  display: grid;
+  align-items: center;
+ }
+
+ .date{
+   width: 140px;
+   display: grid;
+   align-items: center;
+ }
+
+ .priority{
+    width: 104px;
+ }
+
+ .textchip{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 14px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    border-radius: 100px;
+    color: #FFFFFF;
+    display: flex;
+    width: fit-content;
+    padding: 6px 11px;
+ }
+
+ .red{
+     background-color: #F12B2C;
+ }
+
+ .yellow{
+     background-color: #FEC400;
+ }
+
+ .normal{
+     background-color: #29CC97;
+ }
+
+ .option{
+    width: 10px;
+ }
+
+ .ticketmessage{
+     padding-left: 24px;
+     display: grid;
+ }
+
+.rowpagination{
+    padding: 27px 30px;
+    border-top: 1px solid #DFE0EB;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+ .rowsperpagedetails{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    color: #9FA2B4;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+ }
+
+ .recentupdatemessage{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.1px;
+    
+    /* grayscale / gray light */
+    
+    color: #C5C7CD;
+ }
